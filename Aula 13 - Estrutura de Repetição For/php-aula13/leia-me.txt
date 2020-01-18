@@ -1,0 +1,20 @@
+﻿==================================
+SEJA BEM-VINDO AO CURSOEMVIDEO.COM
+Cursos GRATIS feitos com QUALIDADE
+==================================
+Essa aula faz parte de um pacote do Curso de PHP, criado pelo Prof. Gustavo Guanabara. 
+
+A chave para o bom aprendizado e sempre a PRATICA, então pratique muito e não deixe de acompanhar todas as aulas disponíveis no site abaixo:
+------------------------------------------------
+www.cursoemvideo.com/course/curso-php-iniciante/
+------------------------------------------------
+Todas as aulas são gratuitas, mas possuem o direito autoral reservado  ao autor, Gustavo Guanabara.
+
+Coloque a pasta descompactada AulaXX no diretório referente ao Web Server escolhido. No caso do EasyPHP para Windows, a pasta é C:\Arquivos de Programas\EasyPHP\data\locaweb ou C:\Arquivos de Programas\EasyPHP\www (dependendo da versão.
+
+A partir daí é só deixar seu AMP Server aberto e acessar seu servidor local, que normalmente é http://localhost ou http://127.0.0.1.
+
+Crie cópias dessa pasta para usá-la em outros exercícios que serão criados durante todo o curso.
+
+
+BONS ESTUDOS!

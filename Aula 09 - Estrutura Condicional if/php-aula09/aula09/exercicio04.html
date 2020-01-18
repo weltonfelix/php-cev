@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="_css/estilo.css"/>
+    <meta charset="UTF-8"/>
+    <title>Curso de PHP - CursoemVideo.com</title>
+</head>
+<body>
+<div>
+	<form method="get" action="exercicio04.php">
+		<label for="iProd">Produto: </label>
+		<input type="text" name="prod" id="iProd" size="15" maxlength="30" placeholder="Nome do Produto"/><br/>
+		<label for="iN2">Pre&ccedil;o: R$</label>
+		<input type="number" name="preco" id="iPreco" min="0" max="1000" step="0.1" placeholder="$$$"/><br/>
+		<fieldset><legend>Tipo</legend>
+			<input type="radio" name="tipo" id="iAum" value="A" checked><label for="iAum">Aumento</label><br/>
+			<input type="radio" name="tipo" id="iDes" value="D"><label for="iDes">Desconto</label>
+		</fieldset>
+		<label for="iPer">Percentual: </label>
+		<input type="number" name="perc" id="iPer" min="0" max="100" step="1">%<br/>
+		<input type="submit" class="botao" value="Novo Pre&ccedil;o"/>
+	</form>
+</div>
+</body>
+</html>
+ 
